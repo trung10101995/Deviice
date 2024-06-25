@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = "Deviice"
+  s.name             = "IK_Deviice"
   s.version          = "2.1.2"
   s.summary          = "This library helps you to identify the current device on which your app is running."
 
@@ -20,10 +20,10 @@ Pod::Spec.new do |s|
                         This library helps you to identify the current device on which your app is running. You can get also the connectivity and screen size info.
                        DESC
 
-  s.homepage         = "https://github.com/andrealufino/Deviice"
+  s.homepage         = "https://github.com/trung10101995/Deviice"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "Andrea Mario Lufino" => "andrea@andrealufino.com" }
+  s.author           = { "Trungnd" => "trung10101995@gmail.com" }
   s.source           = { :git => "https://github.com/andrealufino/Deviice.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
